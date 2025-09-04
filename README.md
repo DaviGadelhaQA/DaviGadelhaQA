@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Davi Gadelha
+# Davi Gadelha
 
 **`Analista de Qualidade de Software`**
 
