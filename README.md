@@ -1,13 +1,14 @@
 # Davi Gadelha
 
-**`Analista de Qualidade de Software`**
+**`QA Analyst`**
 
-Me chamo Davi Gadelha, sou Analista de Qualidade de Software apaixonado por garantir a excelência em produtos digitais. Tenho experiência com testes manuais e automação, focando na melhoria contínua e na entrega de software com alta qualidade. Cursando Ciência da Computação, estou sempre em busca de aprendizado e atualização para aplicar as melhores práticas em QA.
+My name is Davi Gadelha, and I’m a Quality Assurance Analyst passionate about ensuring excellence in digital products.
+I have experience with both manual and automated testing, always focusing on continuous improvement and the delivery of high-quality software.
+Currently, I’m pursuing a Bachelor’s degree in Computer Science and continuously expanding my technical skills.
 
-Compartilho conhecimentos e insights sobre tecnologia e qualidade em meu [LinkedIn](https://www.linkedin.com/in/davi-gadelha-qa/).
+I share my knowledge and insights about technology and quality on my [LinkedIn](https://www.linkedin.com/in/davi-gadelha-qa/?locale=en_US).
 
-### 🤖 Linguagens e Tecnologias
-
+### 🤖 Technical Skills
 
 <img 
     align="left" 
