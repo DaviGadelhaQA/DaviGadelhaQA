@@ -34,15 +34,6 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/davi-gadelha-qa/).
 
 <img 
     align="left" 
-    alt="Appium"
-    title="Appium"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appium/appium-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Postman"
     title="Postman"
     width="30px" 
@@ -56,14 +47,5 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/davi-gadelha-qa/).
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Excel"
-    title="Excel"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftoffice/microsoftoffice-original.svg" 
 />
 
