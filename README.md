@@ -6,7 +6,7 @@ My name is Davi Gadelha, and I’m a Quality Assurance Analyst passionate about 
 I have experience with both manual and automated testing, always focusing on continuous improvement and the delivery of high-quality software.
 Currently, I’m pursuing a Bachelor’s degree in Computer Science and continuously expanding my technical skills.
 
-I share my knowledge and insights about technology and quality on my [LinkedIn](https://www.linkedin.com/in/davi-gadelha-qa/?locale=en_US).
+I share my knowledge and insights about technology and quality on my [LinkedIn](https://www.linkedin.com/in/davi-gadelha-qa/).
 
 ### 🤖 Technical Skills
 
