@@ -16,6 +16,15 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/davi-gadelha-qa/).
 
 <img 
     align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+/> 
+
+<img 
+    align="left" 
     alt="Cypress"
     title="Cypress"
     width="30px" 
@@ -25,12 +34,12 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/davi-gadelha-qa/).
 
 <img 
     align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
+    alt="Appium"
+    title="Appium"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
-/>   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appium/appium-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -48,12 +57,13 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/davi-gadelha-qa/).
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="GitHub" 
-    title="GitHub"
+    alt="Excel"
+    title="Excel"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftoffice/microsoftoffice-original.svg" 
 />
 
