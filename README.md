@@ -2,50 +2,31 @@
 
 **`Quality Assurance Engineer`**
 
-I’m Davi Gadelha, a Quality Assurance Engineer with hands-on experience ensuring quality end-to-end in web applications, APIs, and integrations. I currently act as the sole QA in my team, being responsible for planning, executing, and evolving quality processes from requirements refinement to final delivery.
+[<img src="https://img.shields.io/badge/%F0%9F%92%BB-Testes%20Manuais-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%9A%80-Automa%C3%A7%C3%A3o-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%93%8A-API%20Testing-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%92%AD-QA%20Mindset-blue?style=flat&color=grey"/>](#)
 
-My background includes manual testing (functional, exploratory, regression), strong API testing with Postman, and test automation with Cypress (JavaScript) for critical business flows. I also have experience documenting test scenarios, reporting bugs with clear reproduction steps, and collaborating closely with developers and Product Owners in agile environments (Scrum/Kanban).
+<table border="0">
+  <tr>
+    <td>
+      🔍 Quality assurance, com projetos realizados na empresa Lumestack <br>
+      👨‍💻 Automação de testes end-to-end utilizando JavaScript e Cypress <br>
+      🧠 Vivência sólida em metodologias ágeis (Scrum, sprints, dailies e refinamentos)  <br>
+      🧪 Atuação em testes manuais e automatizados, com foco em qualidade, performance e confiabilidade  <br>
+      📚 Testes de API com Postman, validação de contratos e regras de negócio  <br>
+      📚 Em constante evolução técnica, estudando CI/CD, boas práticas de QA e análise estática de código com ESLint.
+    </td>
+    <td width="300px">
+      <img src="https://i.imgur.com/Qny5iTT.png" alt="QA caçando bug">
+    </td>
+  </tr>
+</table>
 
-I’m pursuing a Bachelor’s degree in Computer Science and continuously expanding my technical skills, currently deepening my knowledge in mobile test automation with Appium and Java, backend quality, and scalable QA practices
-
-Here on GitHub, I share studies, test automation projects, and experiments focused on software quality, reliability, and continuous improvement.
-
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/davi-gadelha-qa/).
-
-### 🤖 Technical Skills
-
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
-/> 
-
-<img 
-    align="left" 
-    alt="Cypress"
-    title="Cypress"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Postman"
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
+##
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Cypress](https://img.shields.io/badge/Cypress-1722C1?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
